@@ -1,0 +1,13 @@
+MPKBr_1K         	 :    85.0000
+MPKBr_10K         	 :    38.5000
+MPKBr_100K         	 :    62.7300
+MPKBr_1M         	 :    55.6350
+MPKBr_10M         	 :    53.1842
+MPKBr_30M         	 :    53.3886
+TRACE 	 : ../cbp2016.eval/traces/SHORT_MOBILE-61.bt9.trace.gz
+NUM_INSTRUCTIONS            	 :  172842062
+NUM_BR                      	 :   32830844
+NUM_UNCOND_BR               	 :   13757651
+NUM_CONDITIONAL_BR               	 :   19073193
+NUM_MISPREDICTIONS               	 :    1738110
+MISPRED_PER_1K_INST               	 :    10.0561

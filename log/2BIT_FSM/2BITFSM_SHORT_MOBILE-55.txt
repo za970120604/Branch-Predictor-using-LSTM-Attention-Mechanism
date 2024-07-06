@@ -1,0 +1,12 @@
+MPKBr_1K               :   137.0000  
+MPKBr_10K                 :   142.6000  
+MPKBr_100K                :   138.9600  
+MPKBr_1M           :   145.0950  
+MPKBr_10M                 :   113.7623  
+TRACE     : ../cbp2016.eval/traces/SHORT_MOBILE-55.bt9.trace.gz  
+NUM_INSTRUCTIONS                  :  110000000  
+NUM_BR                            :   14398970  
+NUM_UNCOND_BR                      :      11190  
+NUM_CONDITIONAL_BR                :   14387780  
+NUM_MISPREDICTIONS                 :    1178822  
+MISPRED_PER_1K_INST               :    10.7166
